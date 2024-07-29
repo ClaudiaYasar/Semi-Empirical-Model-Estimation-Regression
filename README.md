@@ -5,7 +5,7 @@ This repository contains the curriculum materials used for the Intelligent Contr
 # Semi-Empirical-Model-Estimation-Regression
 This work focuses on semi-empirical model estimation using second-order regression for system identification. An optimizer adjusts parameters to align predictions with measured values by minimizing errors. The goal is to fit predictions to TC Lab's two-heater model data, minimizing the integral absolute error (IAE). Using a 10-minute data collection period with rapid and slow asynchronous (staggered) steps of the heaters with varying magnitudes and directions, the optimizer refines parameters to match model outputs with real-time data.
 
-<img src="regression.jpg" width="900">
+<img src="regression.jpg" width="800">
 
 
 # Acknowledgements
